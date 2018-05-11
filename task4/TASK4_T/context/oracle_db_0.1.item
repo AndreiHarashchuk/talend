@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_uIXrgFUCEeioIZU75Cqmjw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_uIYSkFUCEeioIZU75Cqmjw" comment="" name="oracle_db_Server" prompt="oracle_db_Server?" promptNeeded="false" type="id_String" value="192.168.56.1"/>
+  <contextParameter xmi:id="_uIYSkVUCEeioIZU75Cqmjw" comment="" name="oracle_db_Schema" prompt="oracle_db_Schema?" promptNeeded="false" type="id_String" value="SYSTEM"/>
+  <contextParameter xmi:id="_uIYSklUCEeioIZU75Cqmjw" comment="" name="oracle_db_Port" prompt="oracle_db_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_uIYSk1UCEeioIZU75Cqmjw" comment="" name="oracle_db_Login" prompt="oracle_db_Login?" promptNeeded="false" type="id_String" value="SYSTEM"/>
+  <contextParameter xmi:id="_uIYSlFUCEeioIZU75Cqmjw" comment="" name="oracle_db_Password" prompt="oracle_db_Password?" promptNeeded="false" type="id_Password" value="vRAc9SHLutg="/>
+  <contextParameter xmi:id="_uIYSlVUCEeioIZU75Cqmjw" comment="" name="oracle_db_ServiceName" prompt="oracle_db_ServiceName?" promptNeeded="false" type="id_String" value="orcl"/>
+  <contextParameter xmi:id="_uIYSllUCEeioIZU75Cqmjw" comment="" name="oracle_db_AdditionalParams" prompt="oracle_db_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
